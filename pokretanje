@@ -1,0 +1,21 @@
+//iz okruzenja
+3 example.png BFS
+3 example.png BestFirst Hamming
+3 example.png BestFirst Manhattan
+3 example.png Astar Hamming
+3 example.png Astar Manhattan
+
+//-----------------------------
+//cmd
+python .\main.py 3 example.png BFS
+python .\main.py 3 example.png BestFirst Hamming
+python .\main.py 3 example.png BestFirst Manhattan
+python .\main.py 3 example.png Astar Hamming
+python .\main.py 3 example.png Astar Manhattan
+python .\main.py 3 example.png GreedyDepthFirst Hamming
+python .\main.py 3 example.png GreedyDepthFirst Manhattan
+#22-BFS
+#180-Best first Hamming
+#68-Best first Manhattan
+#202-Astar Hamming
+#50-Astar Manhattan
